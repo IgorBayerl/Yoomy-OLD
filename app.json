@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "notification": {
+      "icon": "./assets/icon.png"
+    },
+    "name": "Yoomy",
+    "slug": "mobile",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "0.1.9",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D9556"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.yoomy",
+      "supportsTablet": true,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.364690284546-lleuifs6sckbppq1mtc7gnr3ne17boi1"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.yoomy",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleSignIn": {
+          "certificateHash": "364690284546-hbdnraa8pclql6dkjpafqdghtv16kou6.apps.googleusercontent.com"
+        }
+      }
+    }
+  }
+}

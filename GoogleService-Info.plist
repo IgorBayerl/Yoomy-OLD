@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>364690284546-lleuifs6sckbppq1mtc7gnr3ne17boi1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.364690284546-lleuifs6sckbppq1mtc7gnr3ne17boi1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>364690284546-n3ksu1bokrv467qqcpg5cvg0jjnnm47u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCv6rLEkcxk1ocEurFgGjzYrt4q5t2Wu7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364690284546</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yoomy</string>
+	<key>PROJECT_ID</key>
+	<string>starry-descent-279400</string>
+	<key>STORAGE_BUCKET</key>
+	<string>starry-descent-279400.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364690284546:ios:61aa43d89d7755bc94071b</string>
+	<key>DATABASE_URL</key>
+	<string>https://starry-descent-279400.firebaseio.com</string>
+</dict>
+</plist>
